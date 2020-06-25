@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "1",
+        "titulo" : "Aliens",
+        "director" : "James Camero",
+        "anio" : "1985",
+        "raiting" : "9.8"
+    },
+    {
+        "id" : "2",
+        "titulo" : "Son Como niños",
+        "director" : "Adam Sandler",
+        "anio" : "2002",
+        "raiting" : "10"
+    }
+
+]
+
